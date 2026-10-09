@@ -1,0 +1,7 @@
+interface:
+  display_name: "Reading Study Guide"
+  short_description: "Bilingual weekly reading guides with deep questions"
+  default_prompt: "Use $reading-study-guide to turn this week’s readings into one bilingual Word study guide."
+
+policy:
+  allow_implicit_invocation: false
